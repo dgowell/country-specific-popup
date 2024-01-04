@@ -1,0 +1,13 @@
+#us-popup-buttons-row {
+    justify-content: space-between;
+    gap: 15px;
+}
+#us-popup-container {
+    padding:30px;
+}
+#dismiss-button,
+#dismiss-button:hover  {
+    background-color:#d45a5aa8;
+    border-color:#d45a5aa8;
+    color: white;
+}
